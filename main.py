@@ -104,14 +104,16 @@ sentences_input = st.text_area("Enter sentences (one per line)", "The quick brow
 user_sentences = sentences_input.split('\n')
 
 # Generate or load embeddings for entered sentences
-embeddings_from_input = np.array([generate_or_load_embedding(sentence) for sentence in user_sentences if sentence.strip()])
+with st.spinner("Generating embeddings..."):
+    embeddings_from_input = np.array([generate_or_load_embedding(sentence) for sentence in user_sentences if sentence.strip()])
 
 # Train PCA model with combined embeddings
 st.subheader("PCA Training")
 combined_embeddings = np.vstack((data_from_file, embeddings_from_input))
-pca = train_pca(combined_embeddings)
+with st.spinner("Fitting PCA..."):
+    pca = train_pca(combined_embeddings)
 
 # Visualization
-st.header("3D Visualization")
+st.subheader("PCA plot n=3 dimensions")
 fig = project_and_visualize(pca, data_from_file, embeddings_from_input, common_corpus_sentences, user_sentences)
 st.plotly_chart(fig, use_container_width=True)  # Display Plotly chart
