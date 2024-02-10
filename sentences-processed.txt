@@ -1,0 +1,603 @@
+Gnome sort (nicknamed stupid sort) is a variation of the insertion sort sorting algorithm that does not use nested loops.
+Gnome sort was originally proposed by Iranian computer scientist Hamid Sarbazi-Azad (professor of Computer Science and Engineering at Sharif University of Technology) in 2000.
+The sort was first called stupid sort (not to be confused with bogosort), and then later described by Dick Grune and named gnome sort.Gnome sort performs at least as many comparisons as insertion sort and has the same asymptotic run time characteristics.
+Gnome sort works by building a sorted list one element at a time, getting each item to the proper place in a series of swaps.
+The average running time is O(n2) but tends towards O(n) if the list is initially almost sorted.Dick Grune described the sorting method with the following story:
+Gnome Sort is based on the technique used by the standard Dutch Garden Gnome (Du.: tuinkabouter).
+Here is how a garden gnome sorts a line of flower pots.
+Basically, he looks at the flower pot next to him and the previous one; if they are in the right order he steps one pot forward, otherwise, he swaps them and steps one pot backward.
+Boundary conditions: if there is no previous pot, he steps forwards; if there is no pot next to him, he is done.
+Here is pseudocode for the gnome sort using a zero-based array:
+Given an unsorted array, a = [5, 3, 2, 4], the gnome sort takes the following steps during the while loop.
+The current position is highlighted in bold and indicated as a value of the variable pos.
+Kyle Thomas Harvey (born May 18, 1993), known mononymously as Kyle and SuperDuperKyle (formerly known as K.i.D, an acronym for Kyle is Determined), is an American rapper, singer, songwriter, and actor from Ventura, California.
+He is best known for his 2016 breakout single "iSpy" (featuring Lil Yachty), which peaked at number 4 on the Billboard Hot 100.
+Signed to Indie-Pop and Atlantic Records, Kyle is also known for his association with the SuperDuperCrew which consists of Brick, Jesus, and Maxx.
+Kyle has collaborated with artists such as Waywo, Kehlani, Lil Yachty, G-Eazy, Chance the Rapper, Miguel, MadeinTYO, Yuna, and Ty Dolla Sign, among others.
+Some of his songs in addition to "iSpy" include "Keep It Real", "Doubt It", "King Wavy" (featuring G-Eazy), and his 2018 hit single "Playinwitme" (featuring Kehlani).
+In 2015, Rolling Stone named him as "one of the ten artists you need to know".His commercial mixtapes Beautiful Loser and Smyle were released in 2013 and 2015, respectively.
+Kyle's debut studio album Light of Mine was released in 2018 to positive reviews and reached within the top-30 of the Billboard 200.
+Kyle made his acting debut in the 2018 Netflix original film The After Party.
+He also released a single from the film "Moment" (featuring Wiz Khalifa).
+His second album See You When I Am Famous was released on July 17, 2020.
+Harvey was born in the Reseda neighborhood of Los Angeles, California, to a single mother, in a home of eight family members and two siblings.
+He grew up one hour away in Ventura.
+He stated that he has a speech impediment and that during his youth he was bullied because of it.
+Harvey attended Ventura High School and regularly took part in drama classes which helped his confidence largely.He started singing at the age of 6 and was writing and performing his own songs by elementary school.
+Harvey started rapping when he was about 13 years old and began recording music after hearing Kid Cudi's Man on the Moon: The End of Day.
+Harvey's first songs were recorded on PreSonus' Studio One recording software using his aunt's computer while in high school.
+Kyle started releasing mixtapes such as Senior Year, Second Semester, FxL, Super Duper, and K.i.D under the monikers KiddKash and K.i.D starting in 2009 to 2012.
+2013–2015: Beautiful Loser and Smyle
+In 2013, he released his commercial debut mixtape Beautiful Loser.In May 2014, he was featured in G-Eazy's music video for "I Mean It" as a technical director on the fictional news set.In October 2015, he released his follow up commercial mixtape Smyle.
+The album peaked on the Billboard 200 at number 76.
+The album featured a guest spot by Chance the Rapper on the track "Remember Me?" and has garnered over 2 million views on YouTube.
+Kyle's first music video to reach one million views was "Keep It Real", which was accomplished later that year.
+2016–present: Breakthrough, Light of Mine and See You When I Am Famous
+In December 2016, he released the single "iSpy", featuring Lil Yachty.
+The song gained widespread recognition for Kyle.
+The song peaked at number 4 on the US Billboard Hot 100 and number 14 on the Canadian Hot 100.In February 2017, Kyle signed a deal with Atlantic Records.In June 2017, Kyle was named as one of the ten 2017 XXL Freshmen along with A Boogie wit da Hoodie, PnB Rock, Playboi Carti, Ugly God, Aminé, MadeinTYO, Kamaiyah, Kap G, and XXXTentacion.In March 2018, alongside the release of his single "Playinwitme" featuring Kehlani, Kyle announced that Khalid would be featured on a track titled "iMissMe".
+Kyle's debut studio album Light of Mine was released on May 18, 2018.
+The album debuted at number 29 on the Billboard 200.He appeared as the main character in the Netflix original film, The After Party, which debuted on August 24, 2018.His second album See You When I Am Famous was released on July 17, 2020, and was supported by the singles "Yes!", "What It Is" and "Bouncin".
+On January 28, 2022, Kyle released the album It's Not So Bad, his fifth project and first as a newly independent artist.
+See You When I Am Famous (2020)
+It's Not So Bad (2022)
+Ntare I Kivimira Savuyimba Semunganzashamba Rushatsi Cambarantama was the king of Burundi from 1680 to 1709.
+He was a legendary descendant of the Ntwero family, and the first king of Burundi.
+Ntare established the Sentare, a tribunal of judges to handle property disputes between chiefs.
+There are any legends describing the creation of the Burundian monarchy.
+No other source than those legends has confirmed his existence or documented his life.
+Albert Milton MM (1885 – 11 October 1917) was an English footballer who played for Sunderland as a full back.
+He fought in the First World War and was killed at Passchendaele while serving with the Royal Field Artillery in October 1917.
+Albert began his career at South Kirkby before joining neighbours Barnsley for £50.
+After just one season at Oakwell Albert was sold by Barnsley to Sunderland in April 1908 for the then maximum transfer fee of £350, Albert made his debut on 9 September 1908 in a 3–0 win against Middlesbrough at Ayresome Park.
+Though Albert played for The Black Cats from 1908 to 1914, he never won a League Championship, as in the 1912–13 season he was injured and missed the majority of the title claim, as well as the 1913 FA Cup Final defeat to Aston Villa.
+Overall for Sunderland, he made 123 league appearances without a goal.
+In March 1914 Albert was given a benefit game by the Black Cats before he joined Swindon Town in May of the same year.
+Despite the transfer fee paid by Swindon being "a very large one" after just twelve months he left the club to return to the Sunderland area with the onset of war.
+After retiring from football Milton returned to Sunderland, where he obtained work with MacColl and Pollock's Engine Works, where he remained for 18 months before moving on to manage the Colliery Tavern, in Monkwearmouth.
+Alongside work Milton assisted local football teams, including Sunderland Rovers, as a coach.
+Albert was the brother of Ernest Milton and Alf Milton, both professional footballers.
+Another brother, Allan, was also a promising footballer who played for the family's local team Kimberworth Wesleyans.
+On the onset of the First World War, Milton worked in a munitions factory supplying shells to the Western Front.
+In 1917, Milton was conscripted into the Royal Field Artillery, and was sent to the Passchendaele salient.
+Bombardier Milton was killed on 11 October 1917, the day before the First Battle of Passchendaele.
+Dravo Corporation was a shipbuilding company with shipyards in Pittsburgh and Wilmington, Delaware.
+It was founded by Frank and Ralph Dravo in Pittsburgh in 1891.
+The corporation went public in 1936 and in 1998 it was bought out by Carmeuse for $192 million ($344.7 million today).
+On March 5, 1942, it became the first corporation to receive the Army-Navy "E" Award for outstanding war time production.
+Dravo ranked 72nd among United States corporations in the value of World War II military production contracts.
+Neville Island shipyard, Pittsburgh  — started 1919, constructed LST's during World War II employing 16,000 people, closed 1982.
+(40.510°N 80.117°W﻿ / 40.510; -80.117)
+Wilmington Shipyard, Delaware — employed 10,500 during World War II, constructing Destroyer escorts.
+Traces back to Harlan and Hollingsworth (39.730°N 75.561°W﻿ / 39.730; -75.561)
+From 1942 to 1945 Dravo Corporation built Landing Ship, Tank, (LST).
+LST were built to support amphibious operations able to land tanks, vehicles, cargo, and landing troops on to beaches.
+No docks or piers were required for these amphibious assaults.
+The LST had a special bow with a large door that could open.
+Then a ramp was installed for unloading allied vehicles.
+The LST had a flat keel, so it could be beached and stay upright.
+The propellers and rudders were  protected from grounding damage.
+Many were used in the Pacific War and in the European theatre, especially on Battle of Normandy.
+In 1942 and 1943 Dravo Corporation also built Submarine chasers.
+3 of 148 Buckley-class destroyer escorts
+16 of 343 PC-461-class submarine chasers
+490 - 495, 573, 592 - 595
+1593 - 1597 (see Adroit-class minesweeper)
+146 of 1052 Landing Ship Tank
+1 - 60 (except 6, 16, 21, 25)
+730 - 753, 775 - 796, 884 - 905, 1038 - 1059
+15 of 72 Cannon-class destroyer escorts
+4 of 343 PC-461-class submarine chasers
+65 of 558 Landing Ship Medium
+LSM-201 - LSM-232, LSM-414 - LSM-446
+Category:Ships built by Dravo Corporation
+Heinz History Center Library and Archives
+Bethlehem - Wilmington (activity prior to Dravo)
+Final Remedial action for cleanup at Wilmington Archived 2016-03-03 at the Wayback Machine
+The Centre for the Study of Traditional Pottery, also known as Psaropoulos Museum of Traditional Pottery and as Study Centre for Contemporary Ceramics is a museum and school in Athens, Greece.It is housed in a villa built 1875 during the Ottoman times.
+The 19th-century house is located on Melidoni Street in the Kerameikos neighbourhood of Athens.The study centre was established in 1987 to research, preserve and promote the production of traditional Greek ceramics.
+Since 1999 it has been located in a neo-classical building at 8 Hepitou Street in Plaka and was officially inaugurated on May 18, 2000, International Museum Day.
+The museums' collection, consists of some 4500 vases and tools from all over the country.
+Collections included Etruscan collared jars.Since 2008, the museum has been managed by archaeologist Nikos Liaros; Yolanda Psaropoulos took over the museum's presidency from her mother Betty Psaropoulos.
+www.athens-greece.us "Study Centre for Contemporary Ceramics Psaropoulos Foundation"
+Hellenic Ministry of Culture and Tourism / (in Greek) "Museum of Modern Ceramics"
+Mountain Safety Research, or MSR, is a producer of camping, hiking and mountaineering equipment, such as portable stoves, water filters, snowshoes,  and tents.
+While specializing in lightweight and technical equipment, MSR's gear is designed for a wide range of outdoor enthusiasts from novice to expert mountaineers.
+It is located in Seattle, Washington and owned by Cascade Designs.
+MSR began as a newsletter in 1969 that covered topics around mountaineering safety.
+In 1973, Larry Penberthy (1916–2001) developed the MSR Model 9 camp stove, a design which used white gas and was relatively fearsome in cold weather.
+He separated the stove burner from then small fuel tanks, and then pressurized auxiliary fuel bottles as the tank, and used a better wind screen.
+Cold weather mountaineers loved it because it was great for melting ice and snow into water.
+It roared, and was nicknamed Krakatoa.
+Not good for omelettes ...
+it did not simmer well.
+This evolved into the Whisperlite stove, a multi fuel stove capable of running on a wide range of liquid fuels.
+He also designed an ice axe that was supposed to dig into the ice better and stop a slide.
+Penberthy also introduced aluminum-shafted ice axes; metal axes have replaced earlier wooden-shaft designs.The company was acquired by REI in 1981.
+In 2000, MSR merged with Edgeworks, the manufacturer of Moss, Walrus and Armadillo tents.
+Shortly afterwards, these brands were discontinued and all tents by the company sold as MSR.
+In August 2001, MSR was acquired by Cascade Designs.
+Daryl Veltman (born September 25, 1985) is a Canadian professional lacrosse player.
+He is currently a member of the New England Black Wolves in the National Lacrosse League.
+Veltman attended the Connecticut college-preparatory Salisbury School, before enrolling at Hobart and William Smith Colleges.
+Veltman played collegiate lacrosse for the Hobart College Statesmen.
+As a freshman in 2005, he was honored by the ECAC Lacrosse League as "Rookie of the Year."  During his freshman season, Veltman led his team in scoring.
+In all three subsequent seasons, he would continue his team's leading scorer.
+Veltman was recognized by the conference with ALL-ECAC team honors three times, including first-team recognition as a senior.
+Veltman played junior box lacrosse in the Ontario Lacrosse Association.
+From 2000 to 2002, Veltman was a member of the Halton Hills Bulldogs in the OLA Junior B Lacrosse League.
+In 2002, he was named his conference's Most Valuable Player.
+From 2003 to 2006 he played Junior A lacrosse with the Orangeville Northmen.
+In 2005, he led the OLA Junior A Lacrosse League in scoring with a career high 102 points.
+After some controversy about transferring provinces within the Canadian Lacrosse Association, Veltman moved west to British Columbia and joined the Coquitlam Adanacs of the Western Lacrosse Association in 2007.
+During his rookie season, Veltmen helped the Adanacs to a league championship and their first Mann Cup appearance since 2001.
+Veltman was selected with the first overall pick by the expansion Boston Blazers of the National Lacrosse League in the 2008 NLL Entry Draft.
+In his rookie season, Veltman was named Rookie of the Week twice, and was also named Rookie of the Month for both January and February.
+Veltman is the nephew of Jim Veltman, former Toronto Rock captain and current Rock advisor and National Lacrosse League all-time loose-ball leader.On August 8, 2015, Veltman signed a two-year contract with the Buffalo Bandits
+In 2003, he represented Team Canada at the Under-19 World Lacrosse Championships, helping his team win the silver medal.
+Bagdad is a small town 37 kilometres (23 mi) north of Hobart, Tasmania.
+It is in the Southern Midlands Council.
+In the days of the horse and buggy, Bagdad was an important rest area and horse-changing place for those continuing their journey up Constitution Hill.
+It is now an area of orchards and small mixed farms and a commuter settlement.
+The town was named by the explorer Hugh Germain, a private in the Royal Marines.
+He was said by James Backhouse in his book "A Narrative of a Visit to the Australian Colonies", published in 1901, to carry two books in his saddlebags while traveling: the Bible and the Arabian Nights, which he used as inspiration when he named places.
+Bagdad Post Office opened on 1 December 1878.A railway line connected the town with Hobart from 1891 until 1947.In April 2003, during the early part of the Iraq war, the town's website was bombarded by confused internet users from around the world trying to contact Iraqis.
+The 2006 Census by the Australian Bureau of Statistics counted 996 persons in Bagdad on census night.
+Of these, 51.7% were male and 48.3% were female.The majority of residents (86.9%) are of Australian birth, with another 2.6% from England.The age distribution of Bagdad residents is comparable to that of the greater Australian population.
+Bagdad Primary School was established on 14 January 1867 with a total of 22 students.
+Fire destroyed the school's three classrooms on 26 January 1954, forcing the pupils to attend temporary schooling at the Bagdad Community Hall.
+The original headmaster's house survives as a classroom for kindergarten students.
+Bagdad is located on the Midland Highway, which connects Hobart and Launceston.
+2006 ABS Census Data by Location
+Archived from the original on 16 February 2011.
+is a Canadian family-owned regional supermarket chain in the Greater Toronto Area.
+Highland Farms was founded in 1963 by brothers Charles Coppa and John Louis "Louie" Coppa, with their first location at 1558 Queen Street West in Toronto.
+Highland Farms grew from operating a single moderately sized grocery outlet to five locations (at its peak) across the GTA in Vaughan, Scarborough, Mississauga and North York.
+The Coppa family split the company between the two brothers in 2013 with three former Highland Farms stores in North York, Vaughan, and Scarborough being rebranded as Coppa's Fresh Market under a new company owned by Louie Coppa.The headquarters of the company is co-located with its Mississauga outlet at 50 Matheson Boulevard East, in northern Mississauga.
+The supermarket chain consists of three stores, one each in Mississauga (flagship store and head office), Scarborough and Vaughan.
+List of supermarket chains in Canada
+April Blair is an American writer and producer of film and television.
+Blair has written scripts for the films, Christmas Caper, Private Valentine: Blonde & Dangerous, Lemonade Mouth and Wednesday.
+She also co-wrote with director Tom Bezucha, the film Monte Carlo starring Selena Gomez, Leighton Meester and Katie Cassidy.
+Blair is also the creator and executive producer of the 2012 Freeform (formerly ABC Family until 2016) series Jane by Design.
+In 2021, she started writing for the TV series Gossip Girl.
+Chen Jin (simplified Chinese: 陈锦; traditional Chinese: 陳錦; d.
+1652) was a military commander and official of the late Ming dynasty and early Qing dynasty.
+He served as Viceroy of Min-Zhe between 1647 and 1652.
+During the Ming dynasty, Chen Jin was stationed along the Liaodong frontier, and in 1633 he defected to the Qing forces and was recommended to Huang Taiji.
+After the Ming-Qing transition, he was appointed commander of Suzhou, where he captured Chen Zilong.
+He was then appointed as Viceroy of Min-Zhe as a reward.
+In 1651, he led forces to attack the Zhoushan islands, successfully capturing them.In 1652, Zheng Chenggong laid siege to Zhangzhou and defeated Chen Jin's forces, forcing him to retreat after abandoning most of his equipment.
+After he lashed one of his house servants Ku Chengdong (庫成棟), the servant murdered him at night, cut off his head and offered it to Zheng.
+But Zheng Chenggong later avenged Chen Jin.
+After Zheng Chenggong rewarded Ku Chengdong, Zheng then murdered Ku Chengdong on the charge of treason.
+Greg Schorp (born September 6, 1971) is a former tight end in the National Football League for the Dallas Cowboys.
+He received All-SWC honors from 1991 to 1993 and was a first-team selection the latter two years.
+As a senior, he received honorable-mention All-American recognition.
+Schorp was a standout at San Antonio Churchill High School.
+He was a two-time All-district tight end and linebacker.
+He also competed in basketball and baseball.
+He accepted a football scholarship from Texas A&M.
+He was a part of a strong squad that beat 13th ranked BYU 65–14 in the Holiday Bowl.
+As a sophomore in 1991, he caught seven passes for 114 yards as the Aggies won the first of three straight SWC titles during his Aggie tenure.
+As a junior in 1992, Schorp had 26 receptions for 294 yards and one touchdown, becoming the first tight end to lead the Aggies in receptions since Rod Bernstine in 1986, almost helping the Aggies complete a perfect year, as they remained undefeated until the last game of the season, losing to #5 Notre Dame in the Cotton Bowl Classic.
+In the season opener, Schorp's 21-yard touchdown catch in the fourth quarter pulled A&M even with Stanford - the only TD the Aggies would score that day as they went on to win a 10-7 nailbiter.
+Schorp caught four passes for 68 yards against the Cardinal and was named the Most Valuable Player of the Disneyland Pigskin Classic.
+The catch that he is most remembered for by Aggie fans came three games later at Kyle Field in College Station.
+With the #5 Aggies trailing Texas Tech 17–16 with time running out in the fourth quarter on a third-and-long play, quarterback Jeff Granger broke away from Tech's Dusty Beavers to avoid a sack deep behind the line of scrimmage.
+Granger, who had been inconsistent all day, somehow managed to duck under the tackle and scrambled to find Schorp, who made a diving 13-yard catch for a first down.
+That catch saved the game for the Aggies and set up a Terry Venetoulias field goal as time expired, giving the Aggies a 19–17 win against their hated rival.
+It was the second of nine consecutive wins that season for the Aggies, who finished the season with a tough 21–24 loss to #4 Notre Dame in the Cotton Bowl Classic.
+As a senior in 1993, he started all 11 games, registering 17 receptions for 220 yards.
+He is, to date, the last tight end to earn first-team all-conference honors for the Aggies.
+Schorp was signed as an undrafted free agent by the Dallas Cowboys after the 1994 NFL Draft on April 29.
+He was waived on August 17.
+He had two stints with the team and was given a Super Bowl XXX championship ring in 1995, as a member of the team's practice squad.On January 12, 1995, he signed with the Jacksonville Jaguars.
+He was released on August 28.
+Abradasikatte  is a village in the southern state of Karnataka, India.
+It is located in the Holalkere taluk of Chitradurga district in Karnataka.
+Daniel Valenzuela (born November 30, 1982) is a Mexican professional boxer.
+In May 2010 Valenzuela fought Miguel Roman for the vacant WBC FECOMBOX Super Featherweight title, the fight was on Mexico Cadena 3.On September 12, 2009 he lost to Brandon Rios in El Palenque de la Feria, Tepic, Nayarit, Mexico.
+Boxing record for Daniel Valenzuela from BoxRec (registration required).
+Via Crucis is an album by Italian pianist and composer Fabio Mengozzi, released in 2022.
+Notte nell'orto del Getsemani – 2:17
+Gesù è tradito e condannato a morte – 1:46
+Gesù è caricato della croce – 4:07
+Gesù cade per la prima volta – 2:06
+Gesù incontra sua madre – 1:48
+Simone di Cirene aiuta Gesù a portare la croce – 1:32
+Veronica asciuga il volto di Gesù – 1:28
+Gesù cade per la seconda volta – 1:14
+Gesù incontra le donne piangenti di Gerusalemme – 2:23
+Gesù cade per la terza volta – 1:27
+Gesù è spogliato delle vesti – 1:06
+Gesù è inchiodato sulla croce – 2:28
+Gesù muore in croce – 3:34
+Gesù è deposto dalla croce – 1:11
+Il corpo di Gesù è deposto nel sepolcro – 0:48
+Via crucis playlist on YouTube
+Vinod Chandra Menon was formerly the Chief of Emergency in the UNICEF in India and now he joined as Senior Professor and Head of the School of Compassion, Peace, Humanitarian Action and disaster risk management at MIT - World Peace University, Pune.
+Vinod C Menon is the son of Narayana Menon and writer Bhadra Menon.
+He resides in Delhi with his wife Shashikala Altekar, and daughter Suvarna Menon and belongs to Kollam, Kerala.He served as a member of the National Disaster Management Authority (NDMA) from 28 September 2005 – 28 September 2010.
+As Member, NDMA, he had the status of a Minister of State in the Government of India.
+Danny Ray Whitten (May 8, 1943 – November 18, 1972) was an American guitarist and songwriter, best known for his work with Neil Young's backing band Crazy Horse, and for the song "I Don't Want to Talk About It", a hit for Rod Stewart and Everything but the Girl.
+Whitten was born on May 8, 1943, in Columbus, Georgia.
+His parents split up when he was young.
+He and his sister, Brenda, lived with their mother, who worked long hours as a waitress.
+His mother remarried when he was  nine years old and the family moved to Canton, Ohio.
+Whitten joined Billy Talbot and Ralph Molina and Benjamin Rocco in the doo-wop group, Danny and the Memories.
+After recording an obscure single, "Can't Help Loving That Girl of Mine", core members of the group moved to San Francisco where they morphed into a folk-psychedelic rock act called The Psyrcle.
+Whitten played guitar, Molina drums, and Talbot played bass and piano.
+By 1967, the group took on brothers George and Leon Whitsell on additional guitars and vocals, as well as violinist Bobby Notkoff, the sextet calling themselves The Rockets.
+They signed with independent label White Whale Records, working with producer Barry Goldberg for the group's self-titled album in mid-1968.
+Songwriter Neil Young, fresh from departing Buffalo Springfield, with one album of his own under his belt, began jamming with the Rockets and expressed interest in recording with Whitten, Molina and Talbot.
+The trio agreed, so long as they were allowed to simultaneously continue on with The Rockets.
+Young acquiesced initially, but imposed a rehearsal schedule that made that an impossibility.
+At first dubbed "War Babies" by Young, they soon became known as Crazy Horse.
+Recording sessions led to Young's second album, Everybody Knows This Is Nowhere, credited as Neil Young with Crazy Horse, with Whitten on second guitar and vocals.
+Although his role was that of support, Whitten sang the album's opening track "Cinnamon Girl" along with Young, and Whitten and Young shared lead guitar on "Down by the River" and "Cowgirl in the Sand".
+These tracks would influence the grunge movement of the 1990s, and all three songs remain part of Young's performance repertoire.
+During this period, Whitten began using heroin; after finding that it mitigated his longstanding battle with rheumatoid arthritis, he quickly became addicted.
+Although he participated in the early stages of Young's next solo effort, After the Gold Rush, Whitten and the rest of Crazy Horse were dismissed about halfway through the recording sessions, in part because of Whitten's heavy drug use.
+Whitten performs guitar and vocals on "Oh, Lonesome Me", "I Believe in You", and "When You Dance I Can Really Love".
+He was also brought in at the end of the sessions to provide harmony vocals on "Tell Me Why", "Only Love Can Break Your Heart", "Cripple Creek Ferry", "Southern Man" and "Till the Morning Comes".
+Young wrote "The Needle and the Damage Done" during this time, with direct references to Whitten's addiction and its role in the destruction of his talent.
+Acquiring a recording contract and expanded to a quintet in 1970, Crazy Horse recorded its first group-only album, released in early 1971.
+The debut album included five songs by Whitten, with two standout tracks being a song co-written by Young that would show up later on a Young album, "(Come On Baby Let's Go) Downtown", and Whitten's most famous composition, "I Don't Want to Talk About It", a heartfelt ballad that would receive many cover versions and offer the promise of unfulfilled talent.
+Whitten continued to drift, his personal life ruled almost totally by drugs.
+He was dismissed from Crazy Horse by Talbot and Molina, who used replacements on the band's two albums of 1972.
+In April of that year, after receiving a call from Young to play rhythm guitar as a member of The Stray Gators on the upcoming tour behind Young's Harvest album, Whitten showed up for rehearsals at Young's home outside San Francisco.
+While the rest of the group hammered out arrangements, Whitten lagged behind, figuring out the rhythm parts, though never in sync with the rest of the group.
+Young, who had more at stake after the success of After the Gold Rush and Harvest, fired him from the band on November 18, 1972.
+He gave Whitten $50 and a plane ticket back to Los Angeles.
+Later that night Whitten died from ingesting a combination of diazepam, which he was taking for severe knee arthritis, and alcohol, which he was using to try to get over his heroin addiction.
+In 1973, Charles Perry of Rolling Stone reported that Whitten died of a methaqualone overdose.Neil Young recalled, "We were rehearsing with him and he just couldn't cut it.
+He was too out of it.
+I had to tell him to go back to L.A.
+You're not together enough.' He just said, 'I've got nowhere else to go, man.
+How am I gonna tell my friends?' And he split.
+That night the coroner called me and told me he'd died.
+And from there, I had to go right out on this huge tour of huge arenas.
+I was very nervous and ...
+insecure."Years later, Young told biographer Jimmy McDonough that for a long time after Whitten died, he felt responsible for Whitten's death.
+It took him years to stop blaming himself.
+"Danny just wasn't happy", Young said.
+"It just all came down on him.
+He was engulfed by this drug.
+Because Danny had a lot to give, boy.
+"Surfin' Granny' (A-Side), "Mirror Mirror" (B-Side), Danny & The Memories, Single, Liberty label, 1963 (Not Released)
+"Can't Help Loving That Girl of Mine" (A-Side), "Don't Go" (B-Side), Danny & The Memories, Single, Valiant label, 7/64; re-released 3/65
+"Baby, Don't Do That" (A-Side), (B-Side is unknown), The Psyrcle, Single, Lorna label, 1966 (Not Released)
+The Rockets, The Rockets, Album, White Whale label, 1968
+"Hole In My Pocket" (A-side), "Let Me Go" (B-Side), The Rockets, Single, White Whale label, 1968
+"Hole In My Pocket" (A & B-Sides), The Rockets, Single, White Whale label, 1968 (Promotional/radio release only)
+"Let Me Go" (A & B-Sides), The Rockets, Single, White Whale label, 1968 (Promotional/radio release only)
+Everybody Knows This Is Nowhere, Neil Young & Crazy Horse, Album, Reprise label, 1969
+After the Gold Rush, Neil Young, Album, Reprise label, 1970
+Crazy Horse, Crazy Horse, Album, Reprise label, 1971
+"Downtown" (A-Side), "Crow Jane Lady" (B-Side), Crazy Horse, Single, Reprise label, 1971
+"Dance, Dance, Dance" (A-Side), "Carolay" (B-Side), Crazy Horse, Single, Reprise label, 1971
+"Dirty, Dirty" (A-Side), "Beggar's Day" (B-Side), Crazy Horse, Single, Reprise label 1971
+Tonight's the Night, Neil Young, Album, Reprise, 1975 (recorded 1970, posthumously released)
+Gone Dead Train: The Best of Crazy Horse 1971–1989 Crazy Horse, Album, Raven label, 2005
+Scratchy: The Complete Reprise Recordings, Crazy Horse, Album, Rhino Handmade label, 2005
+Live at the Fillmore East, Neil Young & Crazy Horse, Album, Reprise, 2006 (recorded 1970)
+1 1963–1972, Neil Young & Crazy Horse, Album, Reprise, 2009
+Songs written by Danny Whitten
+"Baby, Don't Do That" (Whitten, Billy Talbot) 1966 Lorna single, produced by Sly Stone
+"Dance To The Music On The Radio" (Whitten, Talbot)
+"(Come On Baby Let's Go) Downtown" (Whitten, Neil Young)
+"Hole in My Pocket" (Whitten) 1968 White Whale single, produced by Barry Goldberg; also recorded by the 'Barry Goldberg Reunion' on There's No Hole In My Soul for Buddah Records.
+"I Don't Need Nobody (Hangin' Round My Door)" (Whitten)
+"I Don't Want to Talk About It" (Whitten)
+"Let Me Go" (Whitten) 1968 White Whale single, produced by Barry Goldberg.
+"Look At All The Things" (Whitten)
+"Love Can Be So Bad" (Whitten, Lolly Vegas)
+"Wasted" (Whitten, Lolly Vegas, Pat Vegas)
+"Won't You Say You'll Stay" (Whitten)
+Archived Danny Whitten website at the Internet Archive.
+In the United States, a teen escort company, also called a youth transport firm, secure transport company is a business that specializes in transporting teenagers from their homes to various facilities.
+Gooning is a form of legal kidnapping, occurring predominantly in the United States, in which parents hire rehabilitation organizations to seize children they perceive as troubled and transport them to boot camps, behavior modification facilities, residential treatment centers, substance abuse treatment facilities, wilderness therapy, or therapeutic boarding school.
+In most cases, the organizations send a group of people to show up by surprise and force the teenager into a vehicle, often under cover of darkness.Children who resist are frequently threatened, restrained with handcuffs or zip ties, blindfolded, or hooded.
+Children who are gooned frequently report post traumatic stress disorder, problems sleeping at night, and recurring nightmares into adulthood.
+Paris Hilton's documentary This Is Paris details her experience at age 17 with gooning, culminating in her transport to Provo Canyon School where she was abused.
+As a transport option, parents in the United States are able to hire teen escort companies to transport their children from their homes to residential treatment centers (RTCs).
+Private Residential Programs go by many names, and include private religious re-education facilities, teen residential programs, wilderness therapy programs, therapeutic boarding schools, boot camps, or behavior modification programs.In 2004, it was estimated that there were more than twenty teen escort companies operating in the United States.
+Parents may use this type of service when they believe their child needs treatment outside the home, but the parent or child is not willing to travel there.
+The service can cost $5,000 to $8,000 U.S.
+dollars.Often, teens to be transported are picked up during the middle of the night to take advantage of their initial disorientation and to minimize confrontation and flight risk.
+Aggressive tactics, such as being punched, restrained with handcuffs, or hogtied with cable wires, are common.The use of such services is controversial, because the services are subject to little or no government regulation and because they are associated with treatment services, which are themselves controversial.
+For teenagers seized in the middle of the night by strangers, being abducted by a teen escort company may result in permanent trauma.
+Attempts to establish similar services in other countries have been quickly closed down by the authorities under their laws against child abuse, assault and torture.
+Ortiz, Michelle Ray (June 13, 1999).
+"'Escort Service' or Legalized Abduction".
+Telep, Trisha (April 22, 2014).
+"The man who takes troubled youths to therapy camp".
+Miller, Jessica; Fuchs, David; Craft, Will (March 8, 2022).
+"'Blindfolds, hoods and handcuffs': How some teenagers come to Utah youth treatment programs".
+(March 25, 2016) "Experience: I paid to have my daughter kidnapped".
+Abiskomyia is a genus of European non-biting midges in the subfamily Orthocladiinae of the bloodworm family (Chironomidae).
+Banovo Polje (Serbian Cyrillic: Баново Поље) is a village in Serbia.
+It is situated in the Bogatić municipality, in the Mačva District.
+The village has a Serb ethnic majority and its population numbering 1,619 people (2002 census).
+List of places in Serbia
+The British grave of the Unknown Warrior (often known as 'The Tomb of the Unknown Warrior') holds an unidentified member of the British armed forces killed on a European battlefield during the First World War.
+He was given a state funeral and buried in Westminster Abbey, London on 11 November 1920, simultaneously with a similar interment of a French unknown soldier at the Arc de Triomphe in France, making both graves the first examples of a tomb of the Unknown Soldier, and the first to honour the unknown dead of the First World War.
+History of the Unknown Warrior
+The idea of a Tomb of the Unknown Warrior was first conceived in 1916 by the Reverend David Railton, who, while serving as an army chaplain on the Western Front, had seen a grave marked by a rough cross, which bore the pencil-written legend 'An Unknown British Soldier'.He wrote to the dean of Westminster, Herbert Ryle, in 1920 proposing that an unidentified British soldier from the battlefields in France be buried with due ceremony in Westminster Abbey "amongst the kings" to represent the many hundreds of thousands of Empire dead.
+The idea was strongly supported by the dean and the prime minister, David Lloyd George, who later wrote "The Cenotaph is the token of our mourning as a nation; the Grave of the Unknown Warrior is the token of our mourning as individuals".
+Arrangements were placed in the hands of Lord Curzon of Kedleston who prepared in committee the service and location.
+Suitable remains were exhumed from various battlefields and brought to the chapel at Saint-Pol-sur-Ternoise near Arras, France, on the night of 8 November 1920.
+The bodies were received by the Reverend George Kendall OBE.
+Wyatt and Lieutenant Colonel E.A.S.
+Gell of the Directorate of Graves Registration and Enquiries went into the chapel alone.
+The remains were then placed in four plain coffins each covered by Union Flags: the two officers did not know from which battlefield any individual soldier had come.
+Brigadier Wyatt with closed eyes rested his hand on one of the coffins.
+The other soldiers were then taken away for reburial by Kendall.
+The coffin of the unknown warrior then stayed at the chapel overnight and on the afternoon of 9 November, it was transferred under guard and escorted by Kendall, with troops lining the route, from St Pol to the medieval castle within the ancient citadel at Boulogne.
+For the occasion, the castle library was transformed into a chapelle ardente: a company from the French 8th Infantry Regiment, recently awarded the Légion d'Honneur en masse, stood vigil overnight.The following morning, two undertakers entered the castle library and placed the coffin into a casket of the oak timbers of trees from Hampton Court Palace.
+The casket was banded with iron, and a 16th Century sword chosen by King George V personally from the Royal Collection was affixed to the top and surmounted by an iron shield bearing the inscription 'A British Warrior who fell in the Great War 1914–1918 for King and Country'.The casket was then placed onto a French military wagon, drawn by six black horses.
+At 10:30 a.m., all the church bells of Boulogne tolled; the massed trumpets of the French cavalry and the bugles of the French infantry played Aux Champs (the French "Last Post").
+Then, the mile-long procession—led by one thousand local schoolchildren and escorted by a division of French troops—made its way down to the harbour.
+At the quayside, Marshal Foch saluted the casket before it was carried up the gangway of the destroyer, HMS Verdun, and piped aboard with an admiral's call.
+The Verdun slipped its moorings just before noon and was joined by an escort of six destroyers (HMS Witherington, HMS Wanderer, HMS Whitshed, HMS Wivern, HMS Wolverine,  and HMS Veteran).
+As the flotilla carrying the casket closed on Dover Castle it received a 19-gun Field Marshal's salute.
+It was landed at Dover Marine Railway Station at the Western Docks on 10 November.
+The body of the Unknown Warrior was carried to London in South Eastern and Chatham Railway General Utility Van No.132, which had previously carried the bodies of Edith Cavell and Charles Fryatt.
+The van has been preserved by the Kent and East Sussex Railway.
+The train went to Victoria Station, where it arrived at platform 8 at 8:32 p.m.
+that evening and remained overnight.
+A plaque marking the site was unveiled on 10 November 1998: every year on the same date, a small Remembrance service, organised by The Western Front Association, takes place between platforms 8 and 9.The Unknown Warrior was granted a full state funeral, the only time that this honour has been bestowed on an anonymous person or a representative of a whole group of people.
+On the morning of 11 November 1920, the casket was placed onto a gun carriage of the Royal Horse Artillery (N Battery RHA) and drawn by six black horses through immense and silent crowds.
+As the cortege set off, a further Field Marshal's salute was fired in Hyde Park.
+The route followed was Hyde Park Corner, The Mall, and to Whitehall where the Cenotaph, a "symbolic empty tomb", was unveiled by King George V.
+The cortège was then followed by The King, the Royal Family and ministers of state to Westminster Abbey, where the casket was borne into the West Nave of the Abbey flanked by a guard of honour of one hundred recipients of the Victoria Cross.
+The guests of honour were a group of about one hundred women.
+They had been chosen because they had each lost their husband and all their sons in the war.
+"Every woman so bereft who applied for a place got it".The coffin was then interred in the far western end of the Nave, only a few feet from the entrance, in soil brought from each of the main battlefields, and covered with a silk pall.
+Servicemen from the armed forces stood guard as tens of thousands of mourners filed silently past.
+The ceremony appears to have served as a form of catharsis for collective mourning on a scale not previously known.The grave was then capped with a black Belgian marble stone (the only tombstone in the Abbey on which it is forbidden to walk) featuring this inscription, composed by Herbert Edward Ryle, Dean of Westminster, engraved with brass from melted down wartime ammunition.
+Beneath this stone rests the bodyOf a British warriorUnknown by name or rankBrought from France to lie amongThe most illustrious of the landAnd buried here on Armistice Day11 Nov: 1920, in the presence ofHis Majesty King George VHis Ministers of StateThe Chiefs of his forcesAnd a vast concourse of the nation
+Thus are commemorated the manyMultitudes who during the GreatWar of 1914 – 1918 gave the most thatMan can give life itselfFor GodFor King and countryFor loved ones home and empireFor the sacred cause of justice andThe freedom of the world
+They buried him among the kings because heHad done good toward God and towardHis house
+This last sentence is a paraphrase of 2 Chronicles 24:16, taken from the story of Jehoiada: "And they buried him in the city of David among the kings, because he had done good in Israel, both toward God, and toward his house."
+Around the main inscription are four New Testament quotations:
+The Lord knoweth them that are his (top; 2 Timothy 2:19)
+Unknown and yet well known, dying and behold we live (side; 2 Corinthians 6:9)
+Greater love hath no man than this (side; John 15:13)
+In Christ shall all be made alive (base; 1 Corinthians 15:22)
+A year later, on 17 October 1921, the unknown warrior was given the United States' highest award for valour, the Medal of Honor, from the hand of General John Pershing; it hangs on a pillar close to the tomb.
+On 11 November 1921, the American Unknown Soldier was reciprocally awarded the Victoria Cross.When Elizabeth Bowes-Lyon (later Queen Elizabeth The Queen Mother) married Prince Albert, Duke of York (who became King George VI) on 26 April 1923, she laid her bouquet at the Tomb on her way into the Abbey, as a tribute to her brother Fergus who had died at the Battle of Loos in 1915 (and whose name was then listed among those of the missing on the Loos Memorial, although in 2012 a new headstone was erected in the Quarry Cemetery, Vermelles).
+Royal brides married at the Abbey or elsewhere now have their bouquets laid on the tomb the day after the wedding and all of the official wedding photographs have been taken.
+It is also the only tomb not to have been covered by a special red carpet for the wedding of the Duke of York and Elizabeth Bowes-Lyon.Before she died in 2002, Queen Elizabeth The Queen Mother expressed the wish for her wreath to be placed on the Tomb of the Unknown Warrior.
+Her daughter, Queen Elizabeth II, laid the wreath the day after the funeral.The British Unknown Warrior came 76th in the 100 Great Britons poll.
+A new steam locomotive, LMS Patriot Class 5551 The Unknown Warrior, is being constructed by a charitable project, the LMS-Patriot Project.
+The new locomotive is destined to be the new National Memorial Engine, continuing the Remembrance tradition of the Patriot class steam locomotive and its predecessors.
+A public appeal to build the locomotive was launched in 2008 and work continues today.Heads of state from over 70 countries have lain wreaths in memoriam of the Unknown Warrior.On the 100th anniversary of the interment, a ceremony attended by Prince Charles (later Charles III), his wife Camilla, and the then prime minister, Boris Johnson, was held at the Abbey and broadcast live to the nation by the BBC.
+The Poet Laureate, Simon Armitage, read a newly written poem "The Bed".
+Queen Elizabeth II also laid a wreath at the tomb.
+There have been three related memorials erected since 1920 for the Unknown Warrior:
+Pol where the Unknown Warrior was selected
+Dover harbour at the cruise terminal where the Unknown Warrior was brought ashore
+Victoria Station, London, where the Unknown Warrior rested before his burial on 11 November
+Queen Elizabeth II and Her Church: Royal Service at Westminster Abbey.
+Tommy: The British Soldier on the Western Front 1914–1918.
+British Royal and State Funerals: Music and Ceremonial since Elizabeth I.
+The Story of the British Unknown Warrior.
+The Unknown Warrior (Westminster Abbey)
+What is the Grave of the Unknown Warrior?
+– The Dean of Westminster Abbey, the Very Reverend Dr John Hall explains its significance
+Hanson discusses Unknown Soldiers: The Story of the Missing of the First World War at the Pritzker Military Museum & Library.
+Rainy Mountain is a rounded hill standing northwest apart from the main Wichita Mountains in Kiowa County, Oklahoma.
+It was a prominent landmark for the Plains Indians on the southern plains.
+The PBS video https://www.pbs.org/video/n-scott-momaday-word-from-a-bear-odljy7 provides additional historical information regarding the site.
+Rainy Mountain Creek, flowing northeastward from Rainy Mountain, was a favored winter camp for Plains Indians, especially the Kiowas, because the grass was green even in winter.
+The creek is the primary waterway of the Rainy Mountain Creek Watershed which was subject to severe annual flooding.
+In the years from 1926 to 1945 there were 52 major floods and 61 smaller floods.
+In 1960 the Kiowa County, Washita County and Mountain View Conservation Districts, in conjunction with the Soil Conservation Service (now the Natural Resources Conservation Service), implemented a project to construct 29 flood control dams known as the Rainy Mountain Creek Watershed Project.
+The Way to Rainy Mountain.
+Albuquerque: University of New Mexico Press, (reprint edition) 1998.
+Carbine & Lance: The Story of Old Fort Sill.
+Norman: University of Oklahoma Press, (revised edition), 1969.
+"Rainy Mountain Creek Watershed Project.
+Nancy Gleason Groenwegen is the former General Counsel for the Office of the New York State Comptroller.
+She was appointed General Counsel on December 21, 2010 by New York State Comptroller Thomas P.
+Groenwegen led a staff of 40 lawyers, and her responsibilities included oversight of the comptroller's investigations and ethics compliance units.
+Groenwegen was formally the head of the New York Department of Civil Service and served as President of the Civil Service Commission.
+She was appointed by Governor of New York Eliot Spitzer in 2007.
+The three-member commission, examines and creates rules governing a state civil service matters, including testing, disciplinary actions, and pay grades.
+As commissioner of the civil service department, she oversaw the department that manages human resources for executive branches of the state of New York for over 170,000 employees, and provides support to county and local civil service agencies.
+Groewegen was previously the Assistant Attorney General of New York from 2001 to 2006.
+from SUNY Albany and her J.D.
+Office of the State Comptroller Official Press Release
+Pyrausta deidamialis is a moth in the family Crambidae.
+It was described by Herbert Druce in 1895.
+It is found in Mexico (Xalapa), Costa Rica and Panama.
+Jennifer Okere (30 August 1968 – 28 June 1999) was a Nigerian actress and one of the pioneers of the Nigerian film industry (Nollywood) in the 1990s.
+Her two ground-breaking Nollywood blockbuster movies, Living in Bondage and Glamour Girls have been re-adapted.
+She was the posthumous recipient, of the 2016 Afro Heritage Broadcasting and Entertainment Awards (AHBEA) in Houston, Texas.
+Jennifer Okere was born to the family of Chief Raymond Okere and Lolo Janet Okere in Okolochi, Owerri West, Imo State, Nigeria, where she lived through her teenage years.
+After completing her education, Okere moved to Lagos State with her family, where she entered the movie industry.
+After studying Theater Art at the University of Nigeria, Nsukka, Okere joined Nollywood in the early nineties.
+She made remarkable impacts in the industry with her ground-breaking movies Living in Bondage and Glamour Girls.
+Okere played tremendous roles in her movies, especially her first movie Living in Bondage.
+The movie was a notable Igbo movie, starring Kenneth Okonkwo, Nnenna Nwabueze, Okechukwu Ogunjiofor, Francis Agu and Bob-Manuel Udokwu.
+Its two parts were released in 1992 and 1993, respectively.
+The first movie she was featured, Living in Bondage had the cast:
+Kenneth Okonkwo as Andy Okeke
+Nnenna Nwabueze as Merit, Andy's wife
+Kanayo as Chief Omego, cult member
+Francis Agu as Ichie Million, cult member and Merit's boss
+Okechukwu Ogunjiofor as Paul, Andy's friend and cult member
+Ngozi Nwaneto as Caro, Merit's friend and Paul's girlfriend
+Ngozi Nwosu as Ego, Andy's mistress
+Chizoba Bosah as Merit's aunt
+Bob-Manuel Udokwu as Mike, cult member
+Sydney Diala as cult member/initiator
+Daniel Oluigbo as cult chief priest
+Obiageli Molugbe as cult mother
+Rita Nzelu as Tina, local prostitute
+Jennifer Okere as Chinyere, Caro's friend
+Ruth Osu as Andy and Merit's neighbour
+Grace Ayozie as Andy's mother
+Benjamin Nwosu as Andy's fatherThe makers of the movie first sold its right to Charles Okpaleke in 2015 for a possible remake.
+In 2015, Ramsey Nouah acquired the rights to Living In Bondage from Kenneth Nnebue, and filmed the remake in Europe, America, and Nigeria.
+Both Charles Okpaleke and Nouah's rights resulted to becoming a sequel titled Living in Bondage: Breaking Free.Her second movie, Glamour Girls was starred by Liz Benson, Ngozi Ezeonu, Eucharia Anuobi, Pat Attah, Ernest Obi, Zack Orji, and others.
+On 12 December 2019, a Nigerian filmmaker Charles Okpaleke, acquired it for the lifetime copyrights of the 1994 for a modern remake.Okere also featured in Ikuku and True Confession.
+She also acted The Oath, The Ripples, Strange Woman, Calabash.
+The Oath was Okere's final movie.
+In 1996, Okere received The Movie Award as the Best Igbo Actress after acting Ikuku (part 2).
+After her death, she was awarded The Afro Heritage Broadcasting and Entertainment Awards (AHBEA) in 2016, in Houston, Texas.
+The award was received by her husband, Emeka Ossai at the 2nd edition of the prestigious award.
+Been made popular by Living in Bondage, and Glamour Girls, brought about the recognition and celebration of her talents at The Afro Heritage Broadcasting and Entertainment Awards (AHBEA).
+Okere died in 1999, possibly from mistreatment by her husband, Emeka Ossai, and in-laws due to her delay in childbearing.
+She was buried in her hometown, Okolochi, and was mourned by her colleagues in the Nollywood industry, the majority of whom were present at her funeral.
+Her death was the first to shake Nollywood.
+Susan Daitch is an American novelist and short story writer.
+In 1996 David Foster Wallace called her "one of the most intelligent and attentive writers at work in the U.S.
+Susan Daitch graduated from Barnard College and attended the Whitney Museum Independent Study Program.She is the author of six novels and a collection of short stories.Her work has appeared in Guernica, Bomb, Pacific Review, The Barcelona Review,,  Fault Magazine, Rain Taxi,, Tablet., Tin House,  McSweeney’s, Bomb, Conjunctions, The Norton Anthology of Postmodern American Fiction, and elsewhere.
+Her novel, Siege of Comedians, was listed as one of the best books of 2021 in The Wall Street Journal.
+She taught at Barnard College, Columbia University, and the Iowa Writers' Workshop.
+She teaches at Hunter College.She was a 2012 New York Foundation for the Arts Fellow.She is a supporter of Women for Afghan Women.
+Harcourt Brace Jovanovich, 1987; Dalkey Archive Press, 2002
+The Lost Civilization of Suolucidir.
+White Lead: A Novel of Suspense.
+The Review of Contemporary Fiction: William T.
+Vollmann, Susan Daitch, David Foster Wallace; Younger Writers Issue.
+"Rend[er]ing L.C.: Susan Daitch Meets Borges & Borges, Delacroix, Marx, Derrida, Daumier, and Other Textualized Bodies.".
+Review of Contemporary Fiction (PDF).
+"Poetical History: Historical Experience, Nietzschean Genealogy and Susan Daitch's L.C.".
+Composing Useful Pasts: History As Contemporary Politics.
+Scarparo, Susanna (1 January 2005).
+"Fiction as History: Lucienne Crozier and Susan Daitch".
+Elusive Subjects: Biography as Gendered Metafiction.
+"The Books We Teach #3: Interview with Susan Daitch".
+Michael Silverblatt (July 24, 1990).
+"The Dreyfus Affair and Censorship".
+Yuba County Library is a library service for 70,000 people of Yuba County, California.
+The library currently has one branch in Marysville.
+Yuba County Library official website.
+Neoparadoxia is an extinct genus of large, herbivorous aquatic desmostylian mammals from the Miocene Ladera and Monterey Formations of North America.
+Adrenomedullin (ADM or AM) is a vasodilator peptide hormone of uncertain significance in human health and disease.
+It was initially isolated in 1993 from a pheochromocytoma, a tumor of the adrenal medulla: hence the name.In humans ADM is encoded by the ADM gene.
+ADM is a peptide expressed by all tissues, and found in the circulation.
+A similar peptide named adreomedullin2 was reported in rats in 2004 which exhibits a similar function.
+Adrenomedullin may function as a hormone in the circulation control because it is found in blood in a considerable concentration.
+It was initially identified as a vasodilator, and some argued that it is the most potent endogenous vasodilatory peptide found in the body.
+Differences in opinion regarding the ability of AM to relax vascular tone may arise from the differences in the model system used.Other effects of AM include stimulating the growth of new blood vessels (angiogenesis) and increasing the tolerance of cells to oxidative stress and hypoxic injury.
+Adrenomedullin is seen as a positive influence in diseases such as hypertension, myocardial infarction, chronic obstructive pulmonary disease and other cardiovascular diseases, whereas it can be seen as a negative factor in potentiating the ability of cancerous cells to extend their blood supply and thereby enable further cell proliferation.
+Adrenomedullin consists of 52 amino acids, has 1 intramolecular disulfide bond, and shows a slight homology with the calcitonin gene-related peptide (CGRP).
+The precursor, called preproadrenomedullin, consists of 185 amino acids and can be cleaved by plasma kallikrein at the Lys-Arg and Arg-Arg sites.
+By RNA-blot analysis, human adrenomedullin mRNA was found to be expressed in all tissues, and most highly expressed in the placenta, fat cells, lung, pancreatic islets, smooth muscle, and skin.The human AM gene is localized to a single locus on Chromosome 11 with 4 exons and 3 introns.
+The AM gene initially codes for a 185-amino acid precursor peptide, that can be differentially excised to form a number of peptides, including an inactive 53-amino acid AM, e PAMP, adrenotensin and AM95-146.
+Mature human AM is activated to form a 52 amino acid, 6-amino acid ring, that shares moderate structural similarity to the calcitonin family of regulatory peptides (calcitonin, CGRP and amylin).
+Circulating AM consists of both amidated active form (15%) and the glycated inactive form (85%).
+It has a plasma half-life of 22min, mean clearance rate of 27.4 mL/kg/min, and apparent volume of distribution of 880 ± 150 mL/kg.
+Adrenomedullin (AM) exerts its actions through combinations of the calcitonin receptor like receptor (CALCRL) or CLR; and either (Receptor activity-modifying protein)  2 (RAMP2) or RAMP3, (known as AM1 and AM2 receptors respectively).
+Both transduce the hormone binding to intracellular signaling via second messenger cascades.
+The AM2 receptor has a low affinity for CGRP, but this is of no physiological relevance.
+Unlike the classical one ligand-one receptor notion of receptor signalling, the interaction of both CALCRL and RAMP at the membrane is  required for AM to mediate its action: neither can bind the hormone (and therefore transduce a signal) alone.
+Stimulation by AM of its receptor increases production of both cyclic AMP (cAMP) and nitric oxide.Before the discovery of the RAMPs and the identification of heteromeric receptors for the calcitonin family of peptides, a single G Protein coupled Adrenomedullin receptor was identified, but more recent reports have cast doubts as to its importance in the major effects of adrenomedullin.
+In more recent research, the roles of the AM1 and AM2 receptors have been clarified through studies in genetically manipulated mice.
+The adrenomedullin knockout is an embryonic lethal phenotype and dies mid gestation from a condition known as hydrops fetalis.
+The CALCRL or CLR KO mouse recapitulates the same phenotype, as it lacks both the AM1 and AM2 receptors (incidentally confirming the lack of physiological significance for the earlier single protein AM receptor discovered by Kapas).
+RAMP2 KO mice also recapitulates the same phenotype showing that major physiological effects of AM are transduced by the AM1 receptor.
+Even the heterozygote RAMP 2 mice have disturbed physiology with unusual bone and mammary gland defects, and very aberrant endocrinology, leading to poor fertility and lactation problems.
+What is very surprising is that the effect of deletion of RAMP3 has no deleterious effects and seems to confer advantages due to higher than normal bone mass, and reduced weight gain in older age.
+National Library of Medicine Medical Subject Headings (MeSH)
+Human ADM genome location and ADM gene details page  in the UCSC Genome Browser.This article incorporates text from the United States National Library of Medicine, which is in the public domain.
+The Iberia Parish School System is a school district headquartered in New Iberia, Louisiana, United States.
+The district serves all of Iberia Parish and all of the city of Delcambre, which has portions located in Vermilion Parish.
+Beginning in the 2000–2001 school year all students in the system from pre-Kindergarten to the 12th Grade are required to wear school uniforms.
+Delcambre High School (Delcambre, in Vermilion Parish)
+Jeanerette Senior High School (unincorporated area)
+New Iberia Senior High School (New Iberia)
+Westgate High School (unincorporated area)
+Anderson Middle School (New Iberia)
+Belle Place Middle School (unincorporated area)
+Iberia Middle School (unincorporated area)
+Caneview Elementary School (New Iberia)
+Center Street Elementary School (New Iberia)
+Coteau Elementary School (unincorporated area)
+Daspit Elementary School (New Iberia)
+Dodson Elementary School (New Iberia)
+Hopkins Elementary School (New Iberia)
+Johnston Elementary School (New Iberia)
+North Lewis Elementary School (New Iberia)
+North Street Elementary School (New Iberia)
+Park Elementary School (New Iberia)
+Peebles Elementary School (unincorporated area)
+Pesson Elementary School (New Iberia)
+Sugarland Elementary School (unincorporated area)
+Delcambre Elementary School (Delcambre, in Vermilion Parish)
+Magnolia Elementary School (New Iberia)
+Live Oak Preschool (New Iberia)
+Avery Island Elementary School (Avery Island, K–6 Unincorporated area) (closed 2008) - students were re-zoned to Center Street Elementary School
+Bank Avenue Elementary School (New Iberia, 5–6)
+Canal Elementary School (K–2, Jeanerette)
+Grand Marais Elementary School (K–2, unincorporated area)
+Lee Street Alternative School (alternative, New Iberia)
+Wynnestay or Wynnstay is an historic, American residence that is one of the oldest extant houses located in Philadelphia, Pennsylvania.
+It was added to the National Register of Historic Places in 2008 and is available for touring by appointment only.
+This two-and-a-half-story house was built in 1689 as the residence of Dr.
+Thomas Wynne, the personal physician of William Penn, the founder of Pennsylvania.
+Wynne was also the first Speaker of the Pennsylvania Provincial Assembly.The land surrounding Wynnestay was developed starting around 1895 with the encouragement of Pennsylvania Railroad President George B.
+Roberts, and the building of the nearby Wynnefield Station.
+The house was extensively renovated in 1904, with the addition of a large ell that was designed by Walter Smedley.The home was added to the National Register of Historic Places in 2008, and is available for touring by appointment only.
+Anne Pyne Cowley is an American astronomer known for her spectroscopic observations of stars and stellar black holes, including the 1983 discovery of a likely black hole in LMC X-3, an X-ray binary star system in the Large Magellanic Cloud.
+This became the first known extragalactic stellar black hole, and the second known stellar black hole after Cygnus X-1.
+She is a professor emerita at Arizona State University.
+Cowley is a 1959 graduate of Wellesley College, where she became interested in astronomy after taking a general education course on the subject.
+She went to the University of Michigan for graduate study in astronomy, earned a Ph.D.
+there, and met her eventual husband, astronomer Charles R.
+Cowley.She continued as a researcher at the University of Chicago until 1967, when she returned to the University of Michigan as a research scientist.
+In 1983, she took a professorship at Arizona State University.
+In 1986, Wellesley College gave Cowley their Alumnae Achievement Award.
+She was named a Legacy Fellow of the American Astronomical Society in 2020.
+Masahiko Toyoyama (豊山昌彦, Toyoyama Masahiko) (born Osaka, 16 July 1976) is a Japanese former rugby union player who played as prop.
+After graduating from high school in 1995, Toyoyama joined Osaka University of Health and Sport Sciences' rugby club, with which he played in the All-Japan University Rugby Championship.
+In 1999, he graduated from university and joined Toyota Motors club.
+He first played for Japan against Fiji, in Tokyo, on 20 May 2000.
+He was also present in the 2003 Rugby World Cup squad coached by Shogo Mukai, playing three pool stage matches in the tournament.
+His final cap for Japan was against United States, in Gosford, on 27 October 2003, earning 24 caps, 15 points and 3 tries scored in aggregate.
+In 2008, Toyoyama left Toyota Verblitz, retiring as player.
+In 2013, he was appointed as coach by his former club, Toyota Verblitz and served for two seasons.
+Toyoyama also played for Japan A in 2001, against a New Zealand Universities XV.
+Information Morning is CBC Radio One's local morning show program for mainland Nova Scotia.
+It is produced out of the studios of CBHA-FM in Halifax and is simulcast on all CBC Radio One transmitters on mainland Nova Scotia.
+Information Morning was first broadcast on June 1, 1970.
+The original format of the morning current affairs show was a "fast-paced, tightly made omnibus of news, weather, commentary, reviews and interviews," with the rumble of a distant teletype in the background.
+The Dartmouth Free Press's Stefan Haley called it well-done, intense and "hell on a hangover."  It was part of the "Radio Revolution" at CBC Radio which started in the late 1960s as the CBC sought more ambitious, live coverage of news and current affairs including listeners as well as experts, on shows such as As It Happens.
+This change was embraced by CBC regional morning shows which developed three hours of live radio combining "survival information", about news, weather and traffic, with interviews and documentaries about local and national issues.
+Information Morning was the second regional CBC show in Canada to launch the new morning format, after CBC Winnipeg.
+The show tripled CBC Radio's morning audience in Halifax in one year going from seven per cent to 20 per cent and attracted coverage in Time magazine.
+The first Information Morning host was Bob Oxley; with news by Frank Cameron and Brian Bullock; sports by George Young; and weather by Reid Dexter.
+In 1971, Don "Trigger" Tremaine became a host with Gerry Fogarty as sportscaster.
+In 1976 Don Connolly joined Don Tremaine as co-host, establishing a popular era of serious interviews balanced with "kitchen table" banter known to some as the "Two Dons".
+Don Tremaine retired in 1987 and was replaced by Joan Melanson.
+Elizabeth Logan served as co-host from 1991 to 2010.
+The show broadcast from the historic art deco Halifax CBC Radio Building until 2014 when the building was sold to a developer for demolition and the show moved to the new CBC Nova Scotia studios on 7067 Chebucto Road.
+Information Morning has often enjoyed the largest morning radio audience in Nova Scotia,  although the show's ratings dipped to 2nd and third place in the 1980s in the wake of host changes and a national strike at CBC Radio in 1981.
+However, the show climbed back to No.
+1 in the overall Halifax radio audience by 1990 and has been at the top of the ratings across most parts of the province while remaining the number one morning show in Halifax.
+Information Morning is broadcast live from 6:00 am to 8:37 am.
+Interviews are mixed with the national CBC Radio News on the hour and local news on the half-hour along with weather and sports.
+The show regularly goes on the road to broadcast from location at communities around Nova Scotia.
+Information Morning did a pioneering location broadcast on September 11, 2014, when the show was broadcast from the remote Sable Island, the first live radio broadcast from the island famous for its shipwrecks and wild horses.
+The show also conducts an annual fundraising campaign for the Feed Nova Scotia food bank through the "Share the View" art calendar.
+On June 2, 1975, Information Morning began an annual tradition of a public "birthday show" at the Halifax waterfront which usually attracts a large live audience.
+The 16th Birthday party was held at the Halifax Sheraton.
+The show currently features co-hosts Portia Clark and Louise Renault, with sportscaster John Hancock and meteorologist Brennan Allen, who in December 2016 replaced Peter Coade who retired in September.
+Allen left in December 2017 to work for Environment Canada, and was eventually replaced by meteorologist Tina Simpkin on January 2, 2019.
+On November 20, 2017, Don Connolly announced that he would retire, ending 42 years with a last show on January 26, 2018.
+Nova Scotia native Portia Clark, a former co-host of Edmonton AM, became the new host in April, 2018.
+In August 2020, long time culture reporter Tara Thorne was fired for a tweet concerning the Liberal Premier's family (and a personal opinion) on her personal Twitter account.
+Information Morning in other areas
+The Information Morning name is also used for morning programs on CBC Radio One outlets in CBI Sydney, CBZF-FM Fredericton, CBAM-FM Moncton and Saint John CBD-FM.
+However, despite the usage of the same name in these cities, the actual programming is locally produced in each region, and not related to Information Morning in Halifax.
+Information Morning Scrapbook 1970-1980, CBC Radio Halifax (1980)
+Building an Information Morning Wikipedia Entry - Interview with Dan Conlin, CBC Radio, Friday June 14, 2013.
+Chelsea Holmes (born January 20, 1987) is an American cross-country skier who competes internationally.She competed for U.S.
+at the FIS Nordic World Ski Championships 2017 in Lahti, Finland.
+All results are sourced from the International Ski Federation (FIS).
+Chelsea Holmes at the International Ski and Snowboard Federation.

@@ -1,0 +1,9 @@
+streamlit
+requests
+openai
+pandas
+numpy
+plotly
+Wikipedia-API
+matplotlib
+scikit-learn
